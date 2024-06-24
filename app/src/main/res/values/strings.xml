@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="yoga_headline">Interesting for you:</string>
+    <string name="yoga_subtext">Yoga: benefits and risks</string>
+    <string name="yoga_read_more">Tap to read more</string>
+    <string name="calculate">Calculate</string>
+
+</resources>
